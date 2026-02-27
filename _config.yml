@@ -1,0 +1,26 @@
+title: Workshop on AI-supported Research Software Engineering
+description: >-
+  A workshop on AI-supported Research Software Engineering (RSE) —
+  organization, tools, and best practices.
+url: "https://iulusoy.github.io"
+baseurl: "/workshop-AI-supported-RSE-Sept26"
+
+theme: minima
+
+# Navigation pages
+header_pages:
+  - index.md
+  - program.md
+  - speakers.md
+  - registration.md
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
