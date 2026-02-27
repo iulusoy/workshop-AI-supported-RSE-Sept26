@@ -11,7 +11,7 @@ nav_order: 4
 
 ## How to Register
 
-Registration information including fees, deadlines, and the registration form will be provided here once available.
+Registration will be provided at https://events.hifis.net/event/3249/page/968-workshop-on-ai-supported-research-software-engineering.
 
 ## Target Audience
 
