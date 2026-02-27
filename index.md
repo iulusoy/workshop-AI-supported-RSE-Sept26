@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Workshop on AI-supported Research Software Engineering
+title: Home
 nav_order: 1
 ---
 
@@ -18,13 +18,6 @@ Then this workshop is a great match for you! We will offer highlight talks and h
 Your orga team - Stephan Janosch, Inga Ulusoy, Mustafa Dogan, Bernadette Fritzsch, Bela Gipp, Tuyen Le, Sebastian Nielebock
 
 PS. Interested in participating in the organization and contributing to the program? Would you like to get involved in teaching hands-on sessions or present at the workshop? Please get in touch at <a href="mailto:ai-in-rse-workshop26@listserv.dfn.de">ai-in-rse-workshop26@listserv.dfn.de</a> by 28/02/2026.
-
-## Topics Covered
-
-- AI-assisted code generation and review
-- Automated documentation and testing
-- AI tools for reproducibility and sustainability
-- Ethical considerations in AI-supported RSE
 
 ## Quick Links
 
