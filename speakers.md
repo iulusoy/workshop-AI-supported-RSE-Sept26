@@ -5,7 +5,7 @@ permalink: /speakers/
 nav_order: 3
 ---
 
-# Speakers
+# Speakers and Contributors
 
 *Speaker details will be announced closer to the event.*
 

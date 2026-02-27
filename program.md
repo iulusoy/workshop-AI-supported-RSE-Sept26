@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Program
+title: Workshop Program
 permalink: /program/
 nav_order: 2
 ---
 
-# Workshop Program
+# Schedule
 
 *Details will be updated closer to the event date.*
-
-## Schedule
 
 | Date | Time | Session |
 |------|------|---------|
