@@ -23,4 +23,4 @@ This workshop is aimed at:
 
 ## Contact
 
-For questions about registration or the workshop in general, please open an issue in the [GitHub repository](https://github.com/iulusoy/workshop-AI-supported-RSE-Sept26).
+For questions about registration or the workshop in general, please open an issue in the [GitHub repository](https://github.com/DE-RSE/workshop-AI-supported-RSE-Sept26/issues).

@@ -2,10 +2,11 @@ title: Workshop on AI-supported Research Software Engineering
 description: >-
   A workshop on AI-supported Research Software Engineering (RSE) —
   organization, tools, and best practices.
-url: "https://iulusoy.github.io"
+url: "https://de-rse.github.io"
 baseurl: "/workshop-AI-supported-RSE-Sept26"
 
 theme: minima
+github_repo_url: "https://github.com/DE-RSE/workshop-AI-supported-RSE-Sept26"
 
 # Navigation pages
 header_pages:
