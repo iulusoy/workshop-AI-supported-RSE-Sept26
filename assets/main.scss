@@ -1,0 +1,42 @@
+---
+---
+
+@import "minima";
+
+.github-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.35rem 0.7rem;
+  border: 1px solid #24292f;
+  border-radius: 999px;
+  background: #24292f;
+  color: #ffffff;
+  font-size: 0.9rem;
+  font-weight: 600;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: center;
+}
+
+.github-button:visited {
+  color: #ffffff;
+}
+
+.github-button:hover,
+.github-button:focus {
+  background: #32383f;
+  border-color: #32383f;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 600px) {
+  .github-button {
+    font-size: 0.85rem;
+    padding: 0.35rem 0.6rem;
+  }
+}

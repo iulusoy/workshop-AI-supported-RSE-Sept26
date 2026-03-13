@@ -9,7 +9,7 @@ nav_order: 3
 
 *Speaker details will be announced closer to the event.*
 
-We are pleased to invite contributions from researchers and practitioners in the field of Research Software Engineering and AI-assisted development. If you are interested in presenting, please please open an issue in the [GitHub repository](https://github.com/iulusoy/workshop-AI-supported-RSE-Sept26).
+We are pleased to invite contributions from researchers and practitioners in the field of Research Software Engineering and AI-assisted development. If you are interested in presenting, please open an issue in the [GitHub repository](https://github.com/DE-RSE/workshop-AI-supported-RSE-Sept26/issues).
 
 ## Confirmed Speakers
 

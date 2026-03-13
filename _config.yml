@@ -6,6 +6,7 @@ url: "https://de-rse.github.io"
 baseurl: "/workshop-AI-supported-RSE-Sept26"
 
 theme: minima
+github_repo_url: "https://github.com/DE-RSE/workshop-AI-supported-RSE-Sept26"
 
 # Navigation pages
 header_pages:
